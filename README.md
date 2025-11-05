@@ -1,0 +1,2 @@
+# -Topologi-Jaringan-Enterprise-Skala-Menengah-dengan-OSPF-dan-DHCP-Terpusat-
+Proyek simulasi jaringan tingkat enterprise yang mengintegrasikan 4 area terpisah (LAN/VLAN) melalui koneksi WAN berkecepatan tinggi. Repositori ini menampilkan implementasi OSPF routing dinamis untuk memastikan konektivitas end-to-end, serta konfigurasi DHCP Relay yang kompleks untuk layanan terpusat. dan konfigurasi router tersedia.
